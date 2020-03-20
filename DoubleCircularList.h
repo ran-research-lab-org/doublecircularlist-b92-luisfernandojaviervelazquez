@@ -21,7 +21,11 @@ private:
 public:
 
     // Creates an empty List
-    DoubleCircularList();
+    DoubleCircularList()
+    {
+        head = NULL;
+    }
+
 
     // Places a new object at the end of the list. The end of the list is
     // defined as the node immidiately preceeding the current node.

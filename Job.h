@@ -22,6 +22,9 @@ private:
 public:
     Job(int _id, int _start, int duration);
     string toString() const;
+    int getID()const;
+    int getStart() const;
+    int getDuration() const;
 };
 
 
