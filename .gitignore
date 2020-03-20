@@ -1,0 +1,11 @@
+*
+*.*
+.*
+!CMakeLists.txt
+!README.md
+!DoubleCircularList.cpp
+!DoubleCircularList.h
+!Job.cpp
+!Job.h
+!main.cpp
+!.gitignore
