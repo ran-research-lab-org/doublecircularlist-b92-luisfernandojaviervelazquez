@@ -1,7 +1,13 @@
 /*
  *  Programador: Luis Fernando Javier Velazquez Sosa
  *
- *  Descripcion: El programa crea
+ *  Descripcion: El programa crea una lista de Jobs. Hay funciones
+ *  que hacer que el puntero head cambie al proximo nodo usando la
+ *  funcion de miembro next(). Hay una funcion toString que saca
+ *  todos los datos de la lista y lo devuelve como un string. Y get
+ *  devuelve un puntero de donde esta la head de la lista. La funcion
+ *  removeCurrent es una funcion que remueve el head de la lista y se
+ *  lo asigna al proximo nodo y devuele el puntero del nodo removido.
  */
 
 
