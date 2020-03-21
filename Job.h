@@ -1,5 +1,6 @@
 //
 // Created by rarce on 03/10/20.
+// Edited by Luis Fernando Javier Velazquez Sosa
 //
 
 #ifndef DOUBLECIRCULARLIST_JOB_H
